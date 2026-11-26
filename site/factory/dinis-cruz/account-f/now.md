@@ -2,8 +2,8 @@
 
 Updated 2026-11-26T02:23Z.
 
-- State: history and area done; local signals not yet read.
-- History: done, 13 files and 9 commits indexed.
-- Area: done.
-- Next: read the local signals and latest news for Vila Real, each with source and read time, into `data/by-place/vila-real.json` and `data/by-place/now/vila-real.json`.
-- Waiting on Dinis: whether the regional desks and the six places workers fold into their homes (see `/site/factory/dinis-cruz/account-f/places.json` in PrompTugal__Agent__Place__Algarve).
+- State: history and area done; local signals and news read (news only: no live signals feed for this place).
+- History: done. Area: done.
+- Signals: none (no live feed); news: 18 headlines read at 2026-11-26T02:33Z, in `data/by-place/vila-real.json` (`latest_news`).
+- IPMA: linked, never copied (non-commercial use only).
+- Next: the next wake re-reads signals and news; council notices and transport pages are not yet read (council sites refused or were unreachable from this container).
