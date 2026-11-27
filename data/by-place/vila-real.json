@@ -593,72 +593,182 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-27T07:38Z",
+  "read_at": "2026-11-27T18:38Z",
   "by": "place.vila-real@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Sindicato alerta para risco de o interior do país perder médicos de família",
-   "url": "https://www.diariodetrasosmontes.com/noticia/sindicato-alerta-para-risco-de-o-interior-do-pais-perder-medicos-de-familia",
-   "source": "Diário de Trás-os-Montes",
+   "title": "Morreu José Pinto Nóbrega, antigo dirigente associativo e desportivo de Vila Real",
+   "url": "https://noticiasdevilareal.sapo.pt/morreu-jose-pinto-nobrega-antigo-dirigente-associativo-e-desportivo-de-vila-real/",
+   "source": "Notícias de Vila Real",
    "date": "2026-11-27",
-   "read_at": "2026-11-27T07:25:59Z",
-   "names_place": false
+   "read_at": "2026-11-27T18:26:37Z",
+   "names_place": true
   },
   "items": [
    {
-    "title": "Sindicato alerta para risco de o interior do país perder médicos de família",
-    "url": "https://www.diariodetrasosmontes.com/noticia/sindicato-alerta-para-risco-de-o-interior-do-pais-perder-medicos-de-familia",
-    "published": "2026-11-27T06:20Z",
-    "source": "Diário de Trás-os-Montes",
-    "source_site": "https://www.diariodetrasosmontes.com/",
-    "feed": "https://www.diariodetrasosmontes.com/feed/rss.xml",
-    "read_at": "2026-11-27T07:25:59Z",
+    "title": "Centro de Saúde com consulta descentralizada de Cirurgia Geral",
+    "url": "https://www.avozdetrasosmontes.pt/centro-de-saude-com-consulta-descentralizada-de-cirurgia-geral/",
+    "published": "2026-11-27T18:22Z",
+    "source": "A Voz de Trás-os-Montes",
+    "source_site": "https://www.avozdetrasosmontes.pt/",
+    "feed": "https://www.avozdetrasosmontes.pt/feed/",
+    "read_at": "2026-11-27T18:26:23Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
    {
-    "title": "Fado com língua gestual, bombos de Bragança e 5ª Punkada",
-    "url": "https://www.diariodetrasosmontes.com/noticia/fado-com-lingua-gestual-bombos-de-braganca-e-5a-punkada-levam-portugal-a-fhlim-2026-em-zamora",
-    "published": "2026-11-27T04:12Z",
+    "title": "Centro de Saúde de Mogadouro com consulta descentralizada mensal de cirurgia geral",
+    "url": "https://www.diariodetrasosmontes.com/noticia/centro-de-saude-de-mogadouro-com-consulta-descentralizada-mensal-de-cirurgia-geral",
+    "published": "2026-11-27T18:09Z",
     "source": "Diário de Trás-os-Montes",
     "source_site": "https://www.diariodetrasosmontes.com/",
     "feed": "https://www.diariodetrasosmontes.com/feed/rss.xml",
-    "read_at": "2026-11-27T07:25:59Z",
+    "read_at": "2026-11-27T18:26:25Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
    {
-    "title": "UTAD participa nos 20 anos da Universidade de Cabo Verde",
-    "url": "https://www.diariodetrasosmontes.com/noticia/utad-participa-nos-20-anos-da-universidade-de-cabo-verde",
-    "published": "2026-11-26T23:16Z",
+    "title": "Perfumes na Black Friday: o que ter em conta antes de comprar",
+    "url": "https://www.diariodetrasosmontes.com/noticia/perfumes-na-black-friday-o-que-ter-em-conta-antes-de-comprar",
+    "published": "2026-11-27T17:55Z",
     "source": "Diário de Trás-os-Montes",
     "source_site": "https://www.diariodetrasosmontes.com/",
     "feed": "https://www.diariodetrasosmontes.com/feed/rss.xml",
-    "read_at": "2026-11-27T07:25:59Z",
+    "read_at": "2026-11-27T18:26:25Z",
     "mentions_place": false,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
    },
    {
-    "title": "Nova liderança da JSD quer trazer de volta os jovens",
-    "url": "https://www.avozdetrasosmontes.pt/nova-lideranca-da-jsd-quer-trazer-de-volta-os-jovens/",
-    "published": "2026-11-26T19:48Z",
+    "title": "Alto Tâmega e Barroso: não basta ter potencial, é preciso criar riqueza",
+    "url": "https://www.avozdetrasosmontes.pt/alto-tamega-e-barroso-nao-basta-ter-potencial-e-preciso-criar-riqueza/",
+    "published": "2026-11-27T17:32Z",
     "source": "A Voz de Trás-os-Montes",
     "source_site": "https://www.avozdetrasosmontes.pt/",
     "feed": "https://www.avozdetrasosmontes.pt/feed/",
-    "read_at": "2026-11-27T07:25:58Z",
+    "read_at": "2026-11-27T18:26:23Z",
     "mentions_place": false,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
    },
    {
-    "title": "Sindicato alerta para falta de médicos de família na região",
-    "url": "https://www.avozdetrasosmontes.pt/sindicato-alerta-para-falta-de-medicos-de-familia-na-regiao/",
-    "published": "2026-11-26T18:29Z",
+    "title": "Jovem ferido com gravidade em acidente com trotinete",
+    "url": "https://www.avozdetrasosmontes.pt/jovem-ferido-com-gravidade-em-acidente-com-trotinete/",
+    "published": "2026-11-27T17:16Z",
     "source": "A Voz de Trás-os-Montes",
     "source_site": "https://www.avozdetrasosmontes.pt/",
     "feed": "https://www.avozdetrasosmontes.pt/feed/",
-    "read_at": "2026-11-27T07:25:58Z",
+    "read_at": "2026-11-27T18:26:23Z",
     "mentions_place": false,
-    "date": "2026-11-26"
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Orçamento municipal de mais de 35,4 ME para 2027",
+    "url": "https://www.avozdetrasosmontes.pt/orcamento-municipal-de-mais-de-354-me-para-2027/",
+    "published": "2026-11-27T16:52Z",
+    "source": "A Voz de Trás-os-Montes",
+    "source_site": "https://www.avozdetrasosmontes.pt/",
+    "feed": "https://www.avozdetrasosmontes.pt/feed/",
+    "read_at": "2026-11-27T18:26:23Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "“Investimento numa região do interior pode ter dimensão”",
+    "url": "https://www.avozdetrasosmontes.pt/investimento-numa-regiao-do-interior-pode-ter-dimensao/",
+    "published": "2026-11-27T16:41Z",
+    "source": "A Voz de Trás-os-Montes",
+    "source_site": "https://www.avozdetrasosmontes.pt/",
+    "feed": "https://www.avozdetrasosmontes.pt/feed/",
+    "read_at": "2026-11-27T18:26:23Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Polícia fora de serviço ameaçado e agredido por grupo de pessoas em Mirandela",
+    "url": "https://www.diariodetrasosmontes.com/noticia/policia-fora-de-servico-ameacado-e-agredido-por-grupo-de-pessoas-em-mirandela",
+    "published": "2026-11-27T15:47Z",
+    "source": "Diário de Trás-os-Montes",
+    "source_site": "https://www.diariodetrasosmontes.com/",
+    "feed": "https://www.diariodetrasosmontes.com/feed/rss.xml",
+    "read_at": "2026-11-27T18:26:25Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Brigantia Ecopark: um ano de resultados e novos passos na inovação",
+    "url": "https://www.avozdetrasosmontes.pt/brigantia-ecopark-um-ano-de-resultados-e-novos-passos-na-inovacao/",
+    "published": "2026-11-27T15:39Z",
+    "source": "A Voz de Trás-os-Montes",
+    "source_site": "https://www.avozdetrasosmontes.pt/",
+    "feed": "https://www.avozdetrasosmontes.pt/feed/",
+    "read_at": "2026-11-27T18:26:23Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Festival Aves do Tua leva observação de aves aos cinco concelhos do Vale do Tua",
+    "url": "https://www.diariodetrasosmontes.com/noticia/festival-aves-do-tua-leva-observacao-de-aves-aos-cinco-concelhos-do-vale-do-tua",
+    "published": "2026-11-27T14:30Z",
+    "source": "Diário de Trás-os-Montes",
+    "source_site": "https://www.diariodetrasosmontes.com/",
+    "feed": "https://www.diariodetrasosmontes.com/feed/rss.xml",
+    "read_at": "2026-11-27T18:26:25Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Crianças do Pinhão e de Vilarinho de Cotas participaram em experiências científicas",
+    "url": "https://noticiasdevilareal.sapo.pt/criancas-do-pinhao-e-de-vilarinho-de-cotas-participaram-em-experiencias-cientificas/",
+    "published": "2026-11-27T12:48Z",
+    "source": "Notícias de Vila Real",
+    "source_site": "https://noticiasdevilareal.sapo.pt/",
+    "feed": "https://noticiasdevilareal.sapo.pt/feed/",
+    "read_at": "2026-11-27T18:26:37Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Morreu José Pinto Nóbrega, antigo dirigente associativo e desportivo de Vila Real",
+    "url": "https://noticiasdevilareal.sapo.pt/morreu-jose-pinto-nobrega-antigo-dirigente-associativo-e-desportivo-de-vila-real/",
+    "published": "2026-11-27T12:38Z",
+    "source": "Notícias de Vila Real",
+    "source_site": "https://noticiasdevilareal.sapo.pt/",
+    "feed": "https://noticiasdevilareal.sapo.pt/feed/",
+    "read_at": "2026-11-27T18:26:37Z",
+    "mentions_place": true,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Unidade Hospitalar de Chaves assinalou Dia do Doente com Doenças Reumáticas",
+    "url": "https://www.diariodetrasosmontes.com/noticia/unidade-hospitalar-de-chaves-assinalou-dia-do-doente-com-doencas-reumaticas",
+    "published": "2026-11-27T12:17Z",
+    "source": "Diário de Trás-os-Montes",
+    "source_site": "https://www.diariodetrasosmontes.com/",
+    "feed": "https://www.diariodetrasosmontes.com/feed/rss.xml",
+    "read_at": "2026-11-27T18:26:25Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Investigador de Vila Flor vence categoria «Investigação» dos Prémios Psicologia",
+    "url": "https://www.diariodetrasosmontes.com/noticia/investigador-de-vila-flor-vence-categoria-investigacao-dos-premios-psicologia",
+    "published": "2026-11-27T11:13Z",
+    "source": "Diário de Trás-os-Montes",
+    "source_site": "https://www.diariodetrasosmontes.com/",
+    "feed": "https://www.diariodetrasosmontes.com/feed/rss.xml",
+    "read_at": "2026-11-27T18:26:25Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
+   },
+   {
+    "title": "Ministro da Educação inaugura hoje duas novas residências universitárias da UTAD",
+    "url": "https://noticiasdevilareal.sapo.pt/ministro-da-educacao-inaugura-hoje-duas-novas-residencias-universitarias-da-utad/",
+    "published": "2026-11-27T10:28Z",
+    "source": "Notícias de Vila Real",
+    "source_site": "https://noticiasdevilareal.sapo.pt/",
+    "feed": "https://noticiasdevilareal.sapo.pt/feed/",
+    "read_at": "2026-11-27T18:26:37Z",
+    "mentions_place": false,
+    "date": "2026-11-27"
    },
    {
     "title": "Alunos do 1.º Ciclo de Alijó participaram no Desafio Bebras 2026",
@@ -667,51 +777,7 @@
     "source": "Notícias de Vila Real",
     "source_site": "https://noticiasdevilareal.sapo.pt/",
     "feed": "https://noticiasdevilareal.sapo.pt/feed/",
-    "read_at": "2026-11-27T07:26:08Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Município disponibiliza gabinete de psicologia gratuito",
-    "url": "https://www.avozdetrasosmontes.pt/municipio-disponibiliza-gabinete-de-psicologia-gratuito/",
-    "published": "2026-11-26T17:55Z",
-    "source": "A Voz de Trás-os-Montes",
-    "source_site": "https://www.avozdetrasosmontes.pt/",
-    "feed": "https://www.avozdetrasosmontes.pt/feed/",
-    "read_at": "2026-11-27T07:25:58Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Prémios Vinha Douro são “exemplos de excelência”",
-    "url": "https://www.avozdetrasosmontes.pt/premios-vinha-douro-sao-exemplos-de-excelencia/",
-    "published": "2026-11-26T16:59Z",
-    "source": "A Voz de Trás-os-Montes",
-    "source_site": "https://www.avozdetrasosmontes.pt/",
-    "feed": "https://www.avozdetrasosmontes.pt/feed/",
-    "read_at": "2026-11-27T07:25:58Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Projeto desenvolveu 44 soluções para o setor vitivinícola",
-    "url": "https://www.avozdetrasosmontes.pt/projeto-desenvolveu-44-solucoes-para-o-setor-vitivinicola/",
-    "published": "2026-11-26T16:34Z",
-    "source": "A Voz de Trás-os-Montes",
-    "source_site": "https://www.avozdetrasosmontes.pt/",
-    "feed": "https://www.avozdetrasosmontes.pt/feed/",
-    "read_at": "2026-11-27T07:25:58Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "A bruxa portuguesa de Compostela",
-    "url": "https://www.avozdetrasosmontes.pt/a-bruxa-portuguesa-de-compostela/",
-    "published": "2026-11-26T16:11Z",
-    "source": "A Voz de Trás-os-Montes",
-    "source_site": "https://www.avozdetrasosmontes.pt/",
-    "feed": "https://www.avozdetrasosmontes.pt/feed/",
-    "read_at": "2026-11-27T07:25:58Z",
+    "read_at": "2026-11-27T18:26:37Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -722,7 +788,7 @@
     "source": "Notícias de Vila Real",
     "source_site": "https://noticiasdevilareal.sapo.pt/",
     "feed": "https://noticiasdevilareal.sapo.pt/feed/",
-    "read_at": "2026-11-27T07:26:08Z",
+    "read_at": "2026-11-27T18:26:37Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -733,75 +799,9 @@
     "source": "Notícias de Vila Real",
     "source_site": "https://noticiasdevilareal.sapo.pt/",
     "feed": "https://noticiasdevilareal.sapo.pt/feed/",
-    "read_at": "2026-11-27T07:26:08Z",
+    "read_at": "2026-11-27T18:26:37Z",
     "mentions_place": false,
     "date": "2026-11-26"
-   },
-   {
-    "title": "Quinta do Crasto é a única portuguesa entre os 50 melhores destinos de enoturismo do mundo",
-    "url": "https://www.diariodetrasosmontes.com/noticia/quinta-do-crasto-e-a-unica-portuguesa-entre-os-50-melhores-destinos-de-enoturismo-do-mundo",
-    "published": "2026-11-26T10:14Z",
-    "source": "Diário de Trás-os-Montes",
-    "source_site": "https://www.diariodetrasosmontes.com/",
-    "feed": "https://www.diariodetrasosmontes.com/feed/rss.xml",
-    "read_at": "2026-11-27T07:25:59Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Terceiro concurso para construção da estrada Vinhais-Bragança previsto para janeiro",
-    "url": "https://www.diariodetrasosmontes.com/noticia/terceiro-concurso-para-construcao-da-estrada-vinhais-braganca-previsto-para-janeiro",
-    "published": "2026-11-26T07:25Z",
-    "source": "Diário de Trás-os-Montes",
-    "source_site": "https://www.diariodetrasosmontes.com/",
-    "feed": "https://www.diariodetrasosmontes.com/feed/rss.xml",
-    "read_at": "2026-11-27T07:25:59Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Bragança recebe Campeonato da Europa de Granfondo em 2027",
-    "url": "https://www.diariodetrasosmontes.com/noticia/braganca-recebe-campeonato-da-europa-de-granfondo-em-2027",
-    "published": "2026-11-25T23:13Z",
-    "source": "Diário de Trás-os-Montes",
-    "source_site": "https://www.diariodetrasosmontes.com/",
-    "feed": "https://www.diariodetrasosmontes.com/feed/rss.xml",
-    "read_at": "2026-11-27T07:25:59Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Montalegre assinala combate à violência contra as mulheres com exposição de 21 pares de sapatos vermelhos",
-    "url": "https://noticiasdevilareal.sapo.pt/montalegre-assinala-combate-a-violencia-contra-as-mulheres-com-exposicao-de-21-pares-de-sapatos-vermelhos/",
-    "published": "2026-11-25T16:29Z",
-    "source": "Notícias de Vila Real",
-    "source_site": "https://noticiasdevilareal.sapo.pt/",
-    "feed": "https://noticiasdevilareal.sapo.pt/feed/",
-    "read_at": "2026-11-27T07:26:08Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Núncio apostólico presidiu às celebrações dos 250 anos da dedicação da Sé de Lamego",
-    "url": "https://noticiasdevilareal.sapo.pt/nuncio-apostolico-presidiu-as-celebracoes-dos-250-anos-da-dedicacao-da-se-de-lamego/",
-    "published": "2026-11-25T16:13Z",
-    "source": "Notícias de Vila Real",
-    "source_site": "https://noticiasdevilareal.sapo.pt/",
-    "feed": "https://noticiasdevilareal.sapo.pt/feed/",
-    "read_at": "2026-11-27T07:26:08Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "UTAD participa em projeto para desenvolver edifícios rotativos e energeticamente eficientes",
-    "url": "https://noticiasdevilareal.sapo.pt/utad-participa-em-projeto-para-desenvolver-edificios-rotativos-e-energeticamente-eficientes/",
-    "published": "2026-11-25T15:53Z",
-    "source": "Notícias de Vila Real",
-    "source_site": "https://noticiasdevilareal.sapo.pt/",
-    "feed": "https://noticiasdevilareal.sapo.pt/feed/",
-    "read_at": "2026-11-27T07:26:08Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
    },
    {
     "title": "GD Boticas conquista Supertaça de Futsal Sénior Masculino",
@@ -810,7 +810,7 @@
     "source": "Douro Interior Jornal",
     "source_site": "https://www.dourointeriorjornal.pt",
     "feed": "https://www.dourointeriorjornal.pt/feed/",
-    "read_at": "2026-11-27T07:26:06Z",
+    "read_at": "2026-11-27T18:26:34Z",
     "mentions_place": false,
     "date": null
    },
@@ -821,7 +821,7 @@
     "source": "Douro Interior Jornal",
     "source_site": "https://www.dourointeriorjornal.pt",
     "feed": "https://www.dourointeriorjornal.pt/feed/",
-    "read_at": "2026-11-27T07:26:06Z",
+    "read_at": "2026-11-27T18:26:34Z",
     "mentions_place": true,
     "date": null
    },
@@ -832,7 +832,7 @@
     "source": "Douro Interior Jornal",
     "source_site": "https://www.dourointeriorjornal.pt",
     "feed": "https://www.dourointeriorjornal.pt/feed/",
-    "read_at": "2026-11-27T07:26:06Z",
+    "read_at": "2026-11-27T18:26:34Z",
     "mentions_place": true,
     "date": null
    },
@@ -843,7 +843,7 @@
     "source": "Douro Interior Jornal",
     "source_site": "https://www.dourointeriorjornal.pt",
     "feed": "https://www.dourointeriorjornal.pt/feed/",
-    "read_at": "2026-11-27T07:26:06Z",
+    "read_at": "2026-11-27T18:26:34Z",
     "mentions_place": false,
     "date": null
    },
@@ -854,7 +854,7 @@
     "source": "Douro Interior Jornal",
     "source_site": "https://www.dourointeriorjornal.pt",
     "feed": "https://www.dourointeriorjornal.pt/feed/",
-    "read_at": "2026-11-27T07:26:06Z",
+    "read_at": "2026-11-27T18:26:34Z",
     "mentions_place": false,
     "date": null
    },
@@ -865,7 +865,7 @@
     "source": "Douro Interior Jornal",
     "source_site": "https://www.dourointeriorjornal.pt",
     "feed": "https://www.dourointeriorjornal.pt/feed/",
-    "read_at": "2026-11-27T07:26:06Z",
+    "read_at": "2026-11-27T18:26:34Z",
     "mentions_place": false,
     "date": null
    }
