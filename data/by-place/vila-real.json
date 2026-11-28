@@ -5,7 +5,7 @@
  "kind": "city",
  "parent": "portugal",
  "status": "live",
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "by": "place.vila-real@PrompTugal.dinis",
  "mandate": "PrompTugal.news Vila Real: AI and technology in Vila Real, a university and science-park city whose centre of gravity is the UTAD campus and the Regia Douro Park, and what reaches Vila Real from Trás-os-Montes, Portugal and the world. Independent; every fact sourced.",
  "gravity": {
@@ -593,7 +593,7 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-27T18:38Z",
+  "read_at": "2026-11-28T07:37Z",
   "by": "place.vila-real@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
@@ -601,18 +601,18 @@
    "url": "https://noticiasdevilareal.sapo.pt/morreu-jose-pinto-nobrega-antigo-dirigente-associativo-e-desportivo-de-vila-real/",
    "source": "Notícias de Vila Real",
    "date": "2026-11-27",
-   "read_at": "2026-11-27T18:26:37Z",
+   "read_at": "2026-11-28T07:26:12Z",
    "names_place": true
   },
   "items": [
    {
-    "title": "Centro de Saúde com consulta descentralizada de Cirurgia Geral",
-    "url": "https://www.avozdetrasosmontes.pt/centro-de-saude-com-consulta-descentralizada-de-cirurgia-geral/",
-    "published": "2026-11-27T18:22Z",
-    "source": "A Voz de Trás-os-Montes",
-    "source_site": "https://www.avozdetrasosmontes.pt/",
-    "feed": "https://www.avozdetrasosmontes.pt/feed/",
-    "read_at": "2026-11-27T18:26:23Z",
+    "title": "Estudante da UPB vence concurso  internacional e ganha 30 mil euros",
+    "url": "https://www.diariodetrasosmontes.com/noticia/projeto-de-estudante-da-upb-vence-concurso-internacional-e-conquista-financiamento-de-30-mil-euros",
+    "published": "2026-11-27T18:38Z",
+    "source": "Diário de Trás-os-Montes",
+    "source_site": "https://www.diariodetrasosmontes.com/",
+    "feed": "https://www.diariodetrasosmontes.com/feed/rss.xml",
+    "read_at": "2026-11-28T07:26:01Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -623,7 +623,7 @@
     "source": "Diário de Trás-os-Montes",
     "source_site": "https://www.diariodetrasosmontes.com/",
     "feed": "https://www.diariodetrasosmontes.com/feed/rss.xml",
-    "read_at": "2026-11-27T18:26:25Z",
+    "read_at": "2026-11-28T07:26:01Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -634,51 +634,7 @@
     "source": "Diário de Trás-os-Montes",
     "source_site": "https://www.diariodetrasosmontes.com/",
     "feed": "https://www.diariodetrasosmontes.com/feed/rss.xml",
-    "read_at": "2026-11-27T18:26:25Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Alto Tâmega e Barroso: não basta ter potencial, é preciso criar riqueza",
-    "url": "https://www.avozdetrasosmontes.pt/alto-tamega-e-barroso-nao-basta-ter-potencial-e-preciso-criar-riqueza/",
-    "published": "2026-11-27T17:32Z",
-    "source": "A Voz de Trás-os-Montes",
-    "source_site": "https://www.avozdetrasosmontes.pt/",
-    "feed": "https://www.avozdetrasosmontes.pt/feed/",
-    "read_at": "2026-11-27T18:26:23Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Jovem ferido com gravidade em acidente com trotinete",
-    "url": "https://www.avozdetrasosmontes.pt/jovem-ferido-com-gravidade-em-acidente-com-trotinete/",
-    "published": "2026-11-27T17:16Z",
-    "source": "A Voz de Trás-os-Montes",
-    "source_site": "https://www.avozdetrasosmontes.pt/",
-    "feed": "https://www.avozdetrasosmontes.pt/feed/",
-    "read_at": "2026-11-27T18:26:23Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Orçamento municipal de mais de 35,4 ME para 2027",
-    "url": "https://www.avozdetrasosmontes.pt/orcamento-municipal-de-mais-de-354-me-para-2027/",
-    "published": "2026-11-27T16:52Z",
-    "source": "A Voz de Trás-os-Montes",
-    "source_site": "https://www.avozdetrasosmontes.pt/",
-    "feed": "https://www.avozdetrasosmontes.pt/feed/",
-    "read_at": "2026-11-27T18:26:23Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "“Investimento numa região do interior pode ter dimensão”",
-    "url": "https://www.avozdetrasosmontes.pt/investimento-numa-regiao-do-interior-pode-ter-dimensao/",
-    "published": "2026-11-27T16:41Z",
-    "source": "A Voz de Trás-os-Montes",
-    "source_site": "https://www.avozdetrasosmontes.pt/",
-    "feed": "https://www.avozdetrasosmontes.pt/feed/",
-    "read_at": "2026-11-27T18:26:23Z",
+    "read_at": "2026-11-28T07:26:01Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -689,18 +645,7 @@
     "source": "Diário de Trás-os-Montes",
     "source_site": "https://www.diariodetrasosmontes.com/",
     "feed": "https://www.diariodetrasosmontes.com/feed/rss.xml",
-    "read_at": "2026-11-27T18:26:25Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Brigantia Ecopark: um ano de resultados e novos passos na inovação",
-    "url": "https://www.avozdetrasosmontes.pt/brigantia-ecopark-um-ano-de-resultados-e-novos-passos-na-inovacao/",
-    "published": "2026-11-27T15:39Z",
-    "source": "A Voz de Trás-os-Montes",
-    "source_site": "https://www.avozdetrasosmontes.pt/",
-    "feed": "https://www.avozdetrasosmontes.pt/feed/",
-    "read_at": "2026-11-27T18:26:23Z",
+    "read_at": "2026-11-28T07:26:01Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -711,7 +656,7 @@
     "source": "Diário de Trás-os-Montes",
     "source_site": "https://www.diariodetrasosmontes.com/",
     "feed": "https://www.diariodetrasosmontes.com/feed/rss.xml",
-    "read_at": "2026-11-27T18:26:25Z",
+    "read_at": "2026-11-28T07:26:01Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -722,7 +667,7 @@
     "source": "Notícias de Vila Real",
     "source_site": "https://noticiasdevilareal.sapo.pt/",
     "feed": "https://noticiasdevilareal.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:26:37Z",
+    "read_at": "2026-11-28T07:26:12Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -733,7 +678,7 @@
     "source": "Notícias de Vila Real",
     "source_site": "https://noticiasdevilareal.sapo.pt/",
     "feed": "https://noticiasdevilareal.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:26:37Z",
+    "read_at": "2026-11-28T07:26:12Z",
     "mentions_place": true,
     "date": "2026-11-27"
    },
@@ -744,18 +689,7 @@
     "source": "Diário de Trás-os-Montes",
     "source_site": "https://www.diariodetrasosmontes.com/",
     "feed": "https://www.diariodetrasosmontes.com/feed/rss.xml",
-    "read_at": "2026-11-27T18:26:25Z",
-    "mentions_place": false,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Investigador de Vila Flor vence categoria «Investigação» dos Prémios Psicologia",
-    "url": "https://www.diariodetrasosmontes.com/noticia/investigador-de-vila-flor-vence-categoria-investigacao-dos-premios-psicologia",
-    "published": "2026-11-27T11:13Z",
-    "source": "Diário de Trás-os-Montes",
-    "source_site": "https://www.diariodetrasosmontes.com/",
-    "feed": "https://www.diariodetrasosmontes.com/feed/rss.xml",
-    "read_at": "2026-11-27T18:26:25Z",
+    "read_at": "2026-11-28T07:26:01Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -766,7 +700,7 @@
     "source": "Notícias de Vila Real",
     "source_site": "https://noticiasdevilareal.sapo.pt/",
     "feed": "https://noticiasdevilareal.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:26:37Z",
+    "read_at": "2026-11-28T07:26:12Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -777,7 +711,7 @@
     "source": "Notícias de Vila Real",
     "source_site": "https://noticiasdevilareal.sapo.pt/",
     "feed": "https://noticiasdevilareal.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:26:37Z",
+    "read_at": "2026-11-28T07:26:12Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -788,7 +722,7 @@
     "source": "Notícias de Vila Real",
     "source_site": "https://noticiasdevilareal.sapo.pt/",
     "feed": "https://noticiasdevilareal.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:26:37Z",
+    "read_at": "2026-11-28T07:26:12Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -799,7 +733,7 @@
     "source": "Notícias de Vila Real",
     "source_site": "https://noticiasdevilareal.sapo.pt/",
     "feed": "https://noticiasdevilareal.sapo.pt/feed/",
-    "read_at": "2026-11-27T18:26:37Z",
+    "read_at": "2026-11-28T07:26:12Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -810,7 +744,7 @@
     "source": "Douro Interior Jornal",
     "source_site": "https://www.dourointeriorjornal.pt",
     "feed": "https://www.dourointeriorjornal.pt/feed/",
-    "read_at": "2026-11-27T18:26:34Z",
+    "read_at": "2026-11-28T07:26:09Z",
     "mentions_place": false,
     "date": null
    },
@@ -821,7 +755,7 @@
     "source": "Douro Interior Jornal",
     "source_site": "https://www.dourointeriorjornal.pt",
     "feed": "https://www.dourointeriorjornal.pt/feed/",
-    "read_at": "2026-11-27T18:26:34Z",
+    "read_at": "2026-11-28T07:26:09Z",
     "mentions_place": true,
     "date": null
    },
@@ -832,7 +766,7 @@
     "source": "Douro Interior Jornal",
     "source_site": "https://www.dourointeriorjornal.pt",
     "feed": "https://www.dourointeriorjornal.pt/feed/",
-    "read_at": "2026-11-27T18:26:34Z",
+    "read_at": "2026-11-28T07:26:09Z",
     "mentions_place": true,
     "date": null
    },
@@ -843,7 +777,7 @@
     "source": "Douro Interior Jornal",
     "source_site": "https://www.dourointeriorjornal.pt",
     "feed": "https://www.dourointeriorjornal.pt/feed/",
-    "read_at": "2026-11-27T18:26:34Z",
+    "read_at": "2026-11-28T07:26:09Z",
     "mentions_place": false,
     "date": null
    },
@@ -854,7 +788,7 @@
     "source": "Douro Interior Jornal",
     "source_site": "https://www.dourointeriorjornal.pt",
     "feed": "https://www.dourointeriorjornal.pt/feed/",
-    "read_at": "2026-11-27T18:26:34Z",
+    "read_at": "2026-11-28T07:26:09Z",
     "mentions_place": false,
     "date": null
    },
@@ -865,7 +799,7 @@
     "source": "Douro Interior Jornal",
     "source_site": "https://www.dourointeriorjornal.pt",
     "feed": "https://www.dourointeriorjornal.pt/feed/",
-    "read_at": "2026-11-27T18:26:34Z",
+    "read_at": "2026-11-28T07:26:09Z",
     "mentions_place": false,
     "date": null
    }
