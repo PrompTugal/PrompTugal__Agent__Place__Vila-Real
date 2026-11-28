@@ -593,7 +593,7 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-28T07:37Z",
+  "read_at": "2026-11-28T18:39Z",
   "by": "place.vila-real@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
@@ -601,10 +601,32 @@
    "url": "https://noticiasdevilareal.sapo.pt/morreu-jose-pinto-nobrega-antigo-dirigente-associativo-e-desportivo-de-vila-real/",
    "source": "Notícias de Vila Real",
    "date": "2026-11-27",
-   "read_at": "2026-11-28T07:26:12Z",
+   "read_at": "2026-11-28T18:25:43Z",
    "names_place": true
   },
   "items": [
+   {
+    "title": "Mesão Frio celebra Dia do Município a 30 de novembro com sessão solene, exposição e iluminação de Natal",
+    "url": "https://noticiasdevilareal.sapo.pt/mesao-frio-celebra-dia-do-municipio-a-30-de-novembro-com-sessao-solene-exposicao-e-iluminacao-de-natal/",
+    "published": "2026-11-28T15:00Z",
+    "source": "Notícias de Vila Real",
+    "source_site": "https://noticiasdevilareal.sapo.pt/",
+    "feed": "https://noticiasdevilareal.sapo.pt/feed/",
+    "read_at": "2026-11-28T18:25:43Z",
+    "mentions_place": false,
+    "date": "2026-11-28"
+   },
+   {
+    "title": "Luís Pais é o novo reitor da Universidade Politécnica de Bragança",
+    "url": "https://www.diariodetrasosmontes.com/noticia/luis-pais-e-o-novo-reitor-da-universidade-politecnica-de-braganca",
+    "published": "2026-11-28T09:41Z",
+    "source": "Diário de Trás-os-Montes",
+    "source_site": "https://www.diariodetrasosmontes.com/",
+    "feed": "https://www.diariodetrasosmontes.com/feed/rss.xml",
+    "read_at": "2026-11-28T18:25:33Z",
+    "mentions_place": false,
+    "date": "2026-11-28"
+   },
    {
     "title": "Estudante da UPB vence concurso  internacional e ganha 30 mil euros",
     "url": "https://www.diariodetrasosmontes.com/noticia/projeto-de-estudante-da-upb-vence-concurso-internacional-e-conquista-financiamento-de-30-mil-euros",
@@ -612,7 +634,7 @@
     "source": "Diário de Trás-os-Montes",
     "source_site": "https://www.diariodetrasosmontes.com/",
     "feed": "https://www.diariodetrasosmontes.com/feed/rss.xml",
-    "read_at": "2026-11-28T07:26:01Z",
+    "read_at": "2026-11-28T18:25:33Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -623,7 +645,7 @@
     "source": "Diário de Trás-os-Montes",
     "source_site": "https://www.diariodetrasosmontes.com/",
     "feed": "https://www.diariodetrasosmontes.com/feed/rss.xml",
-    "read_at": "2026-11-28T07:26:01Z",
+    "read_at": "2026-11-28T18:25:33Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -634,7 +656,7 @@
     "source": "Diário de Trás-os-Montes",
     "source_site": "https://www.diariodetrasosmontes.com/",
     "feed": "https://www.diariodetrasosmontes.com/feed/rss.xml",
-    "read_at": "2026-11-28T07:26:01Z",
+    "read_at": "2026-11-28T18:25:33Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -645,7 +667,7 @@
     "source": "Diário de Trás-os-Montes",
     "source_site": "https://www.diariodetrasosmontes.com/",
     "feed": "https://www.diariodetrasosmontes.com/feed/rss.xml",
-    "read_at": "2026-11-28T07:26:01Z",
+    "read_at": "2026-11-28T18:25:33Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -656,7 +678,7 @@
     "source": "Diário de Trás-os-Montes",
     "source_site": "https://www.diariodetrasosmontes.com/",
     "feed": "https://www.diariodetrasosmontes.com/feed/rss.xml",
-    "read_at": "2026-11-28T07:26:01Z",
+    "read_at": "2026-11-28T18:25:33Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -667,7 +689,7 @@
     "source": "Notícias de Vila Real",
     "source_site": "https://noticiasdevilareal.sapo.pt/",
     "feed": "https://noticiasdevilareal.sapo.pt/feed/",
-    "read_at": "2026-11-28T07:26:12Z",
+    "read_at": "2026-11-28T18:25:43Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -678,19 +700,8 @@
     "source": "Notícias de Vila Real",
     "source_site": "https://noticiasdevilareal.sapo.pt/",
     "feed": "https://noticiasdevilareal.sapo.pt/feed/",
-    "read_at": "2026-11-28T07:26:12Z",
+    "read_at": "2026-11-28T18:25:43Z",
     "mentions_place": true,
-    "date": "2026-11-27"
-   },
-   {
-    "title": "Unidade Hospitalar de Chaves assinalou Dia do Doente com Doenças Reumáticas",
-    "url": "https://www.diariodetrasosmontes.com/noticia/unidade-hospitalar-de-chaves-assinalou-dia-do-doente-com-doencas-reumaticas",
-    "published": "2026-11-27T12:17Z",
-    "source": "Diário de Trás-os-Montes",
-    "source_site": "https://www.diariodetrasosmontes.com/",
-    "feed": "https://www.diariodetrasosmontes.com/feed/rss.xml",
-    "read_at": "2026-11-28T07:26:01Z",
-    "mentions_place": false,
     "date": "2026-11-27"
    },
    {
@@ -700,7 +711,7 @@
     "source": "Notícias de Vila Real",
     "source_site": "https://noticiasdevilareal.sapo.pt/",
     "feed": "https://noticiasdevilareal.sapo.pt/feed/",
-    "read_at": "2026-11-28T07:26:12Z",
+    "read_at": "2026-11-28T18:25:43Z",
     "mentions_place": false,
     "date": "2026-11-27"
    },
@@ -711,7 +722,7 @@
     "source": "Notícias de Vila Real",
     "source_site": "https://noticiasdevilareal.sapo.pt/",
     "feed": "https://noticiasdevilareal.sapo.pt/feed/",
-    "read_at": "2026-11-28T07:26:12Z",
+    "read_at": "2026-11-28T18:25:43Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -722,18 +733,7 @@
     "source": "Notícias de Vila Real",
     "source_site": "https://noticiasdevilareal.sapo.pt/",
     "feed": "https://noticiasdevilareal.sapo.pt/feed/",
-    "read_at": "2026-11-28T07:26:12Z",
-    "mentions_place": false,
-    "date": "2026-11-26"
-   },
-   {
-    "title": "Mário Centeno apresenta livro “Contas Certas” no Regia Douro Park",
-    "url": "https://noticiasdevilareal.sapo.pt/mario-centeno-apresenta-livro-contas-certas-no-regia-douro-park/",
-    "published": "2026-11-26T14:18Z",
-    "source": "Notícias de Vila Real",
-    "source_site": "https://noticiasdevilareal.sapo.pt/",
-    "feed": "https://noticiasdevilareal.sapo.pt/feed/",
-    "read_at": "2026-11-28T07:26:12Z",
+    "read_at": "2026-11-28T18:25:43Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
@@ -744,7 +744,7 @@
     "source": "Douro Interior Jornal",
     "source_site": "https://www.dourointeriorjornal.pt",
     "feed": "https://www.dourointeriorjornal.pt/feed/",
-    "read_at": "2026-11-28T07:26:09Z",
+    "read_at": "2026-11-28T18:25:41Z",
     "mentions_place": false,
     "date": null
    },
@@ -755,7 +755,7 @@
     "source": "Douro Interior Jornal",
     "source_site": "https://www.dourointeriorjornal.pt",
     "feed": "https://www.dourointeriorjornal.pt/feed/",
-    "read_at": "2026-11-28T07:26:09Z",
+    "read_at": "2026-11-28T18:25:41Z",
     "mentions_place": true,
     "date": null
    },
@@ -766,7 +766,7 @@
     "source": "Douro Interior Jornal",
     "source_site": "https://www.dourointeriorjornal.pt",
     "feed": "https://www.dourointeriorjornal.pt/feed/",
-    "read_at": "2026-11-28T07:26:09Z",
+    "read_at": "2026-11-28T18:25:41Z",
     "mentions_place": true,
     "date": null
    },
@@ -777,7 +777,7 @@
     "source": "Douro Interior Jornal",
     "source_site": "https://www.dourointeriorjornal.pt",
     "feed": "https://www.dourointeriorjornal.pt/feed/",
-    "read_at": "2026-11-28T07:26:09Z",
+    "read_at": "2026-11-28T18:25:41Z",
     "mentions_place": false,
     "date": null
    },
@@ -788,7 +788,7 @@
     "source": "Douro Interior Jornal",
     "source_site": "https://www.dourointeriorjornal.pt",
     "feed": "https://www.dourointeriorjornal.pt/feed/",
-    "read_at": "2026-11-28T07:26:09Z",
+    "read_at": "2026-11-28T18:25:41Z",
     "mentions_place": false,
     "date": null
    },
@@ -799,7 +799,7 @@
     "source": "Douro Interior Jornal",
     "source_site": "https://www.dourointeriorjornal.pt",
     "feed": "https://www.dourointeriorjornal.pt/feed/",
-    "read_at": "2026-11-28T07:26:09Z",
+    "read_at": "2026-11-28T18:25:41Z",
     "mentions_place": false,
     "date": null
    }
